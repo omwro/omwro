@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hello World! Welcome to my coding corner! 👋
+You are currently looking at the GitHub page of an **upcoming** 
+Full Stack Web Developer that **will** shake the **world**! But
+why should you believe me? Well... You shouldn't. You should
+instead take a look at my projects and let the code speak for itself.
 
-<!--
-**omwro/omwro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Omer Erdem and I use Github to store my hobby projects, work with a group and archive
+my previous school projects / assignments. I do a bit of everything like:
+- 🕸️ Frontend Website
+- ⛓ Backend API's
+- 🤖 Bots & Scripts
+- 🎮 Game Development
+- 📱 Mobile Development
+- 💻 Application Development
+- 🦾 Plugin & Package Development  
+- 💾 Database Designs
+- 📊 Data Science
+- ️🛠️ Server Management
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
